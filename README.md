@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, I´m Jacqueline there 👋
 
 <!--
 **Jacke07/Jacke07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+you can find me:
+[Linkedin](https://www.linkedin.com/in/jacqueline-v%C3%A1squez-navarrete-805124a3/)
 
 Here are some ideas to get you started:
 
